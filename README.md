@@ -41,6 +41,26 @@ Recommended screenshots:
 
 ---
 
+## 文件说明 | Files
+
+- `.ttf`
+  - 原始字体文件
+  - 推荐用于其他 Android 设备或二次处理
+ 
+  - `.ttf`
+  - Original font file
+  - Recommended for general Android use or further modification
+
+- `.hwt`
+  - Huawei HarmonyOS 适配版本
+  - 由第三方工具转换生成
+  - 主要用于华为设备
+ 
+  - `.hwt`
+  - Huawei HarmonyOS adapted package
+  - Converted from the TTF file with third-party tools
+  - Designed mainly for Huawei devices
+    
 ## 测试环境 | Tested Environment
 
 目前测试设备：
